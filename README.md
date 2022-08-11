@@ -82,7 +82,8 @@ the audio features from fMRI and anatomical features. Other is to predict out-of
 
 ### Connectome-Harmonics
 **Name**: Connectome Harmonics \
-**Project url**: [GitHub repp] (https://github.com/sai-del-cielo/connectome-harmonics)\
+**Project url**: [GitHub Repo](https://github.com/sai-del-cielo/connectome-harmonics)\
 **Contributors**: [Sai Kiersarsky](https://github.com/sai-del-cielo), [Artur Paulo](https://github.com/arturjpaulo), [Chrystal Dragonflame](https://github.com/chrystaldragonflame), [Ramon Xulvi-Brunet](https://github.com/raxulbru), [Brent McPherson](https://github.com/bcmcpher), [Luis Fernando Fontoura](https://github.com/lfernandof), [Thiti Premrudeepreechacharn](https://github.com/tpremrud) \
-**Description of project**: Connectome harmonics is a frequency-speciﬁc representation of cortical organization. Here, we study how connectome-harmonics change with age.\
+**Description of project**: Connectome harmonics is a frequency-speciﬁc representation of cortical organization. Here, we study how connectome-harmonics change with age. We used the dataset from Cambridge Centre for Ageing and Neuroscience [CAM-CAN](https://www.cam-can.org/index.php?content=) to extract frequency domain representation of structural connectivity and compare how state of organization (entropy) chages during aging. 
+\
 **How to get involved**: Submit a pull request!
